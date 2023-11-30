@@ -12012,6 +12012,7 @@ ul li a {
 
 .pallino svg {
   color: orange;
+  width: 100%;
 }
 
 #sectionDue {
@@ -12033,4 +12034,10 @@ ul li a {
 
 .card {
   margin: 0 2%;
+}
+
+#sectionTre > div:nth-child(3) > h2, #sectionTre > div:nth-child(3) > .h2,
+#sectionTre > div:nth-child(3) > div:nth-child(3) > h2,
+#sectionTre > div:nth-child(3) > div:nth-child(3) > .h2 {
+  margin-top: 10%;
 }/*# sourceMappingURL=main.css.map */
